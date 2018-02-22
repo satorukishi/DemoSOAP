@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operacoes">
+        <item>@string/somar</item>
+        <item>@string/subtrair</item>
+        <item>@string/multiplicar</item>
+        <item>@string/dividir</item>
+    </string-array>
+</resources>
